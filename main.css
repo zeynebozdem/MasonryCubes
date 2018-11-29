@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins");
+body {
+  background-color: #f7ecec;
+}
+.grid-item {
+  border-radius: 5px;
+  /*flex usage for numbers*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.grid-item span {
+  font-family: "Poppins", sans-serif;
+  color: #333;
+  font-size: 22px;
+}
+.grid-item:hover {
+  opacity: 0.8;
+}
