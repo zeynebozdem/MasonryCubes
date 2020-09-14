@@ -17,6 +17,6 @@ Clone down this repository:
 
     git clone https://github.com/zeynebozdem/masonrycubes.github.io
 
-Serve with hot reload at localhost:3000
+Serve with hot reload at http://127.0.0.1:8080
 
     http-server
