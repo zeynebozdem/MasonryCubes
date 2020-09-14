@@ -2,6 +2,11 @@
 body {
   background-color: #f7ecec;
 }
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .grid-item {
   border-radius: 5px;
   /*flex usage for numbers*/
